@@ -1,6 +1,6 @@
 # SQL Business Analytics Project
 
-This repository contains a collection of SQL scripts used to explore, analyze, and generate insights from a business dataset. The project focuses on applying common business analytics techniques directly in SQL, including exploration, trend analysis, segmentation, and reporting.
+This repository contains a collection of SQL scripts used to explore, analyze and generate insights from a business dataset. The project focuses on applying common business analytics techniques directly in SQL, including exploration, trend analysis, segmentation, and reporting.
 
 The goal of this project is to demonstrate how SQL can be used not only for querying data, but also for performing structured business analysis that supports decision-making.
 
