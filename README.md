@@ -11,7 +11,6 @@ The goal of this project is to demonstrate how SQL can be used not only for quer
 The repository is organized as a sequence of SQL scripts that guide the analytical workflow from database setup and exploration to more advanced business analysis and reporting.
 
 ## Datasets
-
 The project uses structured business datasets stored in CSV format:
 
 - `gold.dim_customers.csv` – Customer-related information 
