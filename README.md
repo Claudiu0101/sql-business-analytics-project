@@ -1,4 +1,4 @@
-# SQL Business Analytics Project
+# SQL Business Analytics 
 
 This repository contains a collection of SQL scripts used to explore, analyze and generate insights from a business dataset. The project focuses on applying common business analytics techniques directly in SQL, including exploration, trend analysis, segmentation and reporting.
 
@@ -9,6 +9,14 @@ The goal of this project is to demonstrate how SQL can be used not only for quer
 ## Project Structure
 
 The repository is organized as a sequence of SQL scripts that guide the analytical workflow from database setup and exploration to more advanced business analysis and reporting.
+
+## Datasets
+
+The project uses structured business datasets stored in CSV format:
+
+- `gold.dim_customers.csv` – Customer-related information 
+- `gold.dim_products.csv` – Product details and attributes
+- `gold.fact_sales.csv` – Transactional sales data used for analysis
 
 ### Database Setup
 - `00_create_database.sql` – Creates the database and necessary tables used in the project.
@@ -37,5 +45,5 @@ Final scripts generate business-oriented reports based on the analyses.
 
 ---
 
-## Tools Used
+## Tools & Technologies
 - SQL Server Management Studio 22
